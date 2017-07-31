@@ -1,0 +1,43 @@
+Telstra story
+[ute runs over toughbook]
+
+If your software makes peoples' lives worse, you're missing the forest for the trees
+[somebody missing something obvious]
+
+Obvious examples
+- Flight avionics software for a commercial airline or software to track mass executions
+[IBM genocide computers]
+
+Giving opportunities to the least advantaged or exacerbating wealth inequality
+- Free business loans (Akiva?) versus loans to buy a car for Uber
+[cool thing done with loan]
+[uber driver getting screwed]
+
+Helping us share resources or shifting the means of production to an economic elite
+- Driverless cars
+[how much space 5 seat cars with a single passenger take up]
+
+Reducing soul-crushing human labour or destroying jobs
+- The spreadsheet person
+[spreadsheet memes]
+
+Empowering people or controlling them
+- Thingdoer
+  - Push out job information or build a scheduling algorithm?
+[puppet-master]
+
+Replacing the meta-narrative with our individual stories or putting us in bubbles and destroying our shared cultural context
+- Live-tweeting the Arab spring or the Facebook bubble
+- Machine learning and recommendation engines
+[contrasting news feeds]
+
+Look for these decisions in your work
+- Privacy
+- Deception
+- Bad for people
+[terminator]
+
+Use tools
+- Rawlsian Justice
+ - Myki example
+ [hilarious myki fail]
